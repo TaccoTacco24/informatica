@@ -1,4 +1,4 @@
 # taccotacco24.github.io/informatica
-## attualmente ONLINE!!!
-### Educazione Civica 2024
+## Educazione Civica 2024
+### attualmente ONLINE!!!
 from Italy with love, made by tacco
